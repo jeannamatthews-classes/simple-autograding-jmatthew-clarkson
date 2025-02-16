@@ -1,3 +1,5 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/HwzE2NGP)
+[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=18104361)
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
@@ -90,10 +92,10 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 
 ## 📝 TODO:
 
-* Open a pull request and create a new text file, FEEDBACK.txt. In this file, answer the following question: was any of this material about Github new to you? If so, what?
+* Create a new text file, FEEDBACK.txt. In this file, answer the following question: was any of this material about Github new to you? If so, what?
 * Create a new markdown file, MARKDOWN.md. Experiment with different styles! In this file, answer the following question: What is the difference between a text file and a markdown file?
 * Go to your user dashboard and create a new repository. Experiment with the features within that repository to familiarize yourself with them.
-* Go back to your markfown file, MARKDOWN.md, and add some additional information. Say the name of the repository you created using your user dashboard.
+* Go back to your markdown file, MARKDOWN.md, and add some additional information. What the name of the repository you created using your user dashboard?
 * Optional: Create your profile README. Let the world know a little bit more about you! What are you interested in learning? What are you working on? What's your favorite hobby? Learn more about creating your profile README in the document, ["Managing Your Profile README"](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme).
 
 
